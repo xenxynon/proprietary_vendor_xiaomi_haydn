@@ -1325,3 +1325,6 @@ PRODUCT_PACKAGES += \
     xtra-daemon \
     dpmd \
     wfdservice64
+
+PRODUCT_BOOT_JARS += \
+    WfdCommon
